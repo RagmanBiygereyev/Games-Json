@@ -1,4 +1,6 @@
 {
+      "developers":[
+      {
       "id": 101,
       "name": "Nintor Entertainment",
       "founded": "1980-09-23",
@@ -77,4 +79,6 @@
       "is_indie": true,
       "website": "https://wildzone.com",
       "logo_url": "https://example.com/wildzone_logo.jpg"
+}
+]
 }

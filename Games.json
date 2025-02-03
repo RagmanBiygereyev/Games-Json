@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "The Legend of Zeldara",
+    "description": "An epic adventure in a vast open world filled with puzzles, dungeons, and enemies to defeat.",
+    "age_rating": 12,
+    "is_active": true,
+    "release_date": "2017-03-03",
+    "image_url": "https://example.com/zelda.jpg",
+    "platform": "Switch",
+    "genres": ["Action", "Adventure", "RPG"],
+    "developer": {
+      "id": 101,
+      "name": "Nintor Entertainment",
+      "founded": "1980-09-23",
+      "is_indie": false,
+      "website": "https://nintor.com",
+      "logo_url": "https://example.com/nintor_logo.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cyberpunk 3088",
+    "description": "Immerse yourself in a futuristic world where technology and dystopia merge in a gripping narrative.",
+    "age_rating": 18,
+    "is_active": false,
+    "release_date": "2020-12-10",
+    "image_url": "https://example.com/cyberpunk.jpg",
+    "platform": "PC",
+    "genres": ["Action", "RPG", "Open World"],
+    "developer": {
+      "id": 102,
+      "name": "Red Planet Games",
+      "founded": "2002-05-14",
+      "is_indie": false,
+      "website": "https://redplanetgames.com",
+      "logo_url": "https://example.com/redplanet_logo.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Skyward Ascent",
+    "description": "A fast-paced aerial combat game where players control advanced aircraft in high-altitude battles.",
+    "age_rating": 10,
+    "is_active": true,
+    "release_date": "2021-09-17",
+    "image_url": "https://example.com/skyward.jpg",
+    "platform": "PC",
+    "genres": ["Action", "Simulation"],
+    "developer": {
+      "id": 103,
+      "name": "Skybound Studios",
+      "founded": "2015-04-02",
+      "is_indie": true,
+      "website": "https://skybound.com",
+      "logo_url": "https://example.com/skybound_logo.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mystic Realms Online",
+    "description": "A massively multiplayer online role-playing game set in a fantasy world filled with magic and danger.",
+    "age_rating": 16,
+    "is_active": true,
+    "release_date": "2015-11-15",
+    "image_url": "https://example.com/mysticrealms.jpg",
+    "platform": "PC",
+    "genres": ["MMORPG", "Fantasy"],
+    "developer": {
+      "id": 104,
+      "name": "EpicMind Games",
+      "founded": "1998-06-18",
+      "is_indie": false,
+      "website": "https://epicmind.com",
+      "logo_url": "https://example.com/epicmind_logo.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Racing Stars",
+    "description": "A high-octane racing game with realistic physics, various cars, and intense competition.",
+    "age_rating": 7,
+    "is_active": true,
+    "release_date": "2019-08-24",
+    "image_url": "https://example.com/racingstars.jpg",
+    "platform": "PS5",
+    "genres": ["Racing", "Sports"],
+    "developer": {
+      "id": 105,
+      "name": "TurboDrive Games",
+      "founded": "2010-07-12",
+      "is_indie": true,
+      "website": "https://turbodrivegames.com",
+      "logo_url": "https://example.com/turbodrive_logo.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Dungeon Quest: Legends",
+    "description": "A challenging dungeon crawler with strategic combat and procedurally generated dungeons.",
+    "age_rating": 12,
+    "is_active": false,
+    "release_date": "2018-06-21",
+    "image_url": "https://example.com/dungeonquest.jpg",
+    "platform": "PC",
+    "genres": ["Action", "RPG", "Dungeon Crawler"],
+    "developer": {
+      "id": 106,
+      "name": "Deep Cave Studios",
+      "founded": "2013-02-25",
+      "is_indie": true,
+      "website": "https://deepcave.com",
+      "logo_url": "https://example.com/deepcave_logo.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Galactic Conqueror",
+    "description": "A space strategy game where players build empires, form alliances, and wage interstellar war.",
+    "age_rating": 10,
+    "is_active": true,
+    "release_date": "2022-02-11",
+    "image_url": "https://example.com/galacticconqueror.jpg",
+    "platform": "PC",
+    "genres": ["Strategy", "Sci-Fi"],
+    "developer": {
+      "id": 107,
+      "name": "Cosmic Horizons",
+      "founded": "2016-03-09",
+      "is_indie": true,
+      "website": "https://cosmichorizons.com",
+      "logo_url": "https://example.com/cosmichorizons_logo.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Pixel Heroes",
+    "description": "A retro-styled action-platformer with challenging levels and unique pixel-art design.",
+    "age_rating": 8,
+    "is_active": true,
+    "release_date": "2020-11-27",
+    "image_url": "https://example.com/pixelheroes.jpg",
+    "platform": "Switch",
+    "genres": ["Platformer", "Action"],
+    "developer": {
+      "id": 108,
+      "name": "RetroWave Studios",
+      "founded": "2018-01-18",
+      "is_indie": true,
+      "website": "https://retrowave.com",
+      "logo_url": "https://example.com/retrowave_logo.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Kingdoms of Valor",
+    "description": "A medieval strategy game where players manage kingdoms, armies, and engage in large-scale battles.",
+    "age_rating": 14,
+    "is_active": false,
+    "release_date": "2016-05-06",
+    "image_url": "https://example.com/kingdomsvalor.jpg",
+    "platform": "PC",
+    "genres": ["Strategy", "Medieval"],
+    "developer": {
+      "id": 109,
+      "name": "Valor Studios",
+      "founded": "2012-10-21",
+      "is_indie": true,
+      "website": "https://valorstudios.com",
+      "logo_url": "https://example.com/valorstudios_logo.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Survivor Island",
+    "description": "A survival game where players must gather resources, build shelters, and fend off dangerous creatures.",
+    "age_rating": 16,
+    "is_active": true,
+    "release_date": "2023-04-15",
+    "image_url": "https://example.com/survivorisland.jpg",
+    "platform": "PC",
+    "genres": ["Survival", "Adventure"],
+    "developer": {
+      "id": 110,
+      "name": "WildZone Games",
+      "founded": "2020-07-04",
+      "is_indie": true,
+      "website": "https://wildzone.com",
+      "logo_url": "https://example.com/wildzone_logo.jpg"
+    }
+  }
+]

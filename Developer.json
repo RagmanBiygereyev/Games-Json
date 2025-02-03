@@ -1,0 +1,80 @@
+{
+      "id": 101,
+      "name": "Nintor Entertainment",
+      "founded": "1980-09-23",
+      "is_indie": false,
+      "website": "https://nintor.com",
+      "logo_url": "https://example.com/nintor_logo.jpg"
+},
+{
+      "id": 102,
+      "name": "Red Planet Games",
+      "founded": "2002-05-14",
+      "is_indie": false,
+      "website": "https://redplanetgames.com",
+      "logo_url": "https://example.com/redplanet_logo.jpg"
+},
+{
+      "id": 103,
+      "name": "Skybound Studios",
+      "founded": "2015-04-02",
+      "is_indie": true,
+      "website": "https://skybound.com",
+      "logo_url": "https://example.com/skybound_logo.jpg"
+},
+{
+      "id": 104,
+      "name": "EpicMind Games",
+      "founded": "1998-06-18",
+      "is_indie": false,
+      "website": "https://epicmind.com",
+      "logo_url": "https://example.com/epicmind_logo.jpg"
+},
+{
+      "id": 105,
+      "name": "TurboDrive Games",
+      "founded": "2010-07-12",
+      "is_indie": true,
+      "website": "https://turbodrivegames.com",
+      "logo_url": "https://example.com/turbodrive_logo.jpg"
+},
+{
+      "id": 106,
+      "name": "Deep Cave Studios",
+      "founded": "2013-02-25",
+      "is_indie": true,
+      "website": "https://deepcave.com",
+      "logo_url": "https://example.com/deepcave_logo.jpg"
+},
+{
+      "id": 107,
+      "name": "Cosmic Horizons",
+      "founded": "2016-03-09",
+      "is_indie": true,
+      "website": "https://cosmichorizons.com",
+      "logo_url": "https://example.com/cosmichorizons_logo.jpg"
+},
+{
+      "id": 108,
+      "name": "RetroWave Studios",
+      "founded": "2018-01-18",
+      "is_indie": true,
+      "website": "https://retrowave.com",
+      "logo_url": "https://example.com/retrowave_logo.jpg"
+},
+{
+      "id": 109,
+      "name": "Valor Studios",
+      "founded": "2012-10-21",
+      "is_indie": true,
+      "website": "https://valorstudios.com",
+      "logo_url": "https://example.com/valorstudios_logo.jpg"
+},
+{
+      "id": 110,
+      "name": "WildZone Games",
+      "founded": "2020-07-04",
+      "is_indie": true,
+      "website": "https://wildzone.com",
+      "logo_url": "https://example.com/wildzone_logo.jpg"
+}

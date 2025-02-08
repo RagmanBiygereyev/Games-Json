@@ -2,7 +2,7 @@
   "Games":[
   {
     "id": 1,
-    "name": "The Legend of Zeldara",
+    "name": "The Legend of Zelidara",
     "description": "An epic adventure in a vast open world filled with puzzles, dungeons, and enemies to defeat.",
     "age_rating": 12,
     "is_active": true,

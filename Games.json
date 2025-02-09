@@ -26,7 +26,7 @@
     "age_rating": 18,
     "is_active": false,
     "release_date": "2020-12-10",
-    "image_url": "https://example.com/cyberpunk.jpg",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/8d08935cf8849df10247360130084db865c60159/Images/Cyberpunk3088.jpg",
     "platform": "PC",
     "genres": ["Action", "RPG", "Open World"],
     "developer": {

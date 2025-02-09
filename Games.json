@@ -159,7 +159,7 @@
     "age_rating": 14,
     "is_active": false,
     "release_date": "2016-05-06",
-    "image_url": "https://example.com/kingdomsvalor.jpg",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/0e49741423b4eee17695c76851f2a16ce8a33a99/Images/KingdomsOfValor.jpg",
     "platform": "PC",
     "genres": ["Strategy", "Medieval"],
     "developer": {

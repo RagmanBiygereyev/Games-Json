@@ -7,7 +7,7 @@
     "age_rating": 12,
     "is_active": true,
     "release_date": "2017-03-03",
-    "image_url": "https://example.com/zelda.jpg",
+    "image_url": "",
     "platform": "Switch",
     "genres": ["Action", "Adventure", "RPG"],
     "developer": {
@@ -102,7 +102,7 @@
     "age_rating": 12,
     "is_active": false,
     "release_date": "2018-06-21",
-    "image_url": "https://example.com/dungeonquest.jpg",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/633a987db01cfae187106e98dd13859e94d3323f/Images/DungeonQuestLegends.jpg",
     "platform": "PC",
     "genres": ["Action", "RPG", "Dungeon Crawler"],
     "developer": {

@@ -35,7 +35,7 @@
       "founded": "2002-05-14",
       "is_indie": false,
       "website": "https://redplanetgames.com",
-      "logo_url": "https://example.com/redplanet_logo.jpg"
+      "logo_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/f980b136aa7fd858472d9cc714cd9be1367296d2/Images/RedPlanetGames.jpg"
     }
   },
   {
@@ -83,7 +83,7 @@
     "age_rating": 7,
     "is_active": true,
     "release_date": "2019-08-24",
-    "image_url": "https://example.com/racingstars.jpg",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/7aacc4ef129bab8c5e312f6202a1ee4b9269837a/Images/RacingStars.jpg",
     "platform": "PS5",
     "genres": ["Racing", "Sports"],
     "developer": {
@@ -140,7 +140,7 @@
     "age_rating": 8,
     "is_active": true,
     "release_date": "2020-11-27",
-    "image_url": "https://example.com/pixelheroes.jpg",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/7aacc4ef129bab8c5e312f6202a1ee4b9269837a/Images/PixelHeroes.jpg",
     "platform": "Switch",
     "genres": ["Platformer", "Action"],
     "developer": {

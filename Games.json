@@ -16,7 +16,7 @@
       "founded": "1980-09-23",
       "is_indie": false,
       "website": "https://nintor.com",
-      "logo_url": "https://example.com/nintor_logo.jpg"
+      "logo_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/ecc0c1e86db5a840d3a986855e58f0245c530f65/Images/NintorEntertainment.jpg"
     }
   },
   {
@@ -64,7 +64,7 @@
     "age_rating": 16,
     "is_active": true,
     "release_date": "2015-11-15",
-    "image_url": "https://example.com/mysticrealms.jpg",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/ecc0c1e86db5a840d3a986855e58f0245c530f65/Images/MysticRealmsOnline.jpg",
     "platform": "PC",
     "genres": ["MMORPG", "Fantasy"],
     "developer": {

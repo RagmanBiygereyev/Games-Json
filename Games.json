@@ -121,7 +121,7 @@
     "age_rating": 10,
     "is_active": true,
     "release_date": "2022-02-11",
-    "image_url": "https://example.com/galacticconqueror.jpg",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/943611a2b9f4060f65eaa04410c2c72f3a4cd377/Images/GalacticConqueror.jpg",
     "platform": "PC",
     "genres": ["Strategy", "Sci-Fi"],
     "developer": {

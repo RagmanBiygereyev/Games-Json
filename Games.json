@@ -7,7 +7,7 @@
     "age_rating": 12,
     "is_active": true,
     "release_date": "2017-03-03",
-    "image_url": "",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/901519d3dd1b3bcfc43f5c896342806d872d59dd/Images/TheLegendOfZelidara.jpg",
     "platform": "Switch",
     "genres": ["Action", "Adventure", "RPG"],
     "developer": {
@@ -45,7 +45,7 @@
     "age_rating": 10,
     "is_active": true,
     "release_date": "2021-09-17",
-    "image_url": "https://example.com/skyward.jpg",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/901519d3dd1b3bcfc43f5c896342806d872d59dd/Images/SkywardAscent.jpg",
     "platform": "PC",
     "genres": ["Action", "Simulation"],
     "developer": {
@@ -54,7 +54,7 @@
       "founded": "2015-04-02",
       "is_indie": true,
       "website": "https://skybound.com",
-      "logo_url": "https://example.com/skybound_logo.jpg"
+      "logo_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/d3554bb9a01641953578058c7e2eee83e558549d/Images/SkyboundStudios.jpg"
     }
   },
   {
@@ -92,7 +92,7 @@
       "founded": "2010-07-12",
       "is_indie": true,
       "website": "https://turbodrivegames.com",
-      "logo_url": "https://example.com/turbodrive_logo.jpg"
+      "logo_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/901519d3dd1b3bcfc43f5c896342806d872d59dd/Images/TurbodriveGames.jpg"
     }
   },
   {
@@ -178,7 +178,7 @@
     "age_rating": 16,
     "is_active": true,
     "release_date": "2023-04-15",
-    "image_url": "https://example.com/survivorisland.jpg",
+    "image_url": "https://github.com/RagmanBiygereyev/Games-Json/blob/901519d3dd1b3bcfc43f5c896342806d872d59dd/Images/SurvivorIsland.jpg",
     "platform": "PC",
     "genres": ["Survival", "Adventure"],
     "developer": {
